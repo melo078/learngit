@@ -1,0 +1,1 @@
+CREATE TABLE `ss` AS SELECT who,COUNT(`who`) FROM `aa` GROUP BY who

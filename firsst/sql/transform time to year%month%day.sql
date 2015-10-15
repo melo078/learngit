@@ -1,0 +1,1 @@
+CREATE TABLE `ww` AS SELECT num,DATE_FORMAT(`time`,'%Y-%m-%d') FROM nn
