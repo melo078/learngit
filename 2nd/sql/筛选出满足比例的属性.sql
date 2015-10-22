@@ -1,0 +1,1 @@
+CREATE TABLE sbb1(SELECT who,number from sbb where what='CC' AND -0.10<cn-0.27<010)

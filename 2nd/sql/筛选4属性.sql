@@ -1,0 +1,1 @@
+CREATE TABLE ssssa(SELECT * FROM newone where what='CC'OR what='Status'OR what='Resolution'OR what='Assignee')

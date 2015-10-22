@@ -1,0 +1,2 @@
+CREATE TABLE ssssa AS  select DISTINCT who from table group by who 
+having ((-0.1<count("CC")/num-27%<0.1)AND(-0.1<count("Status")/num-18%<0.1)AND (-0.1<count("Resolution")/num-11%<0.1)AND(-0.1<count("Assignee")/num-5%<0.1))
