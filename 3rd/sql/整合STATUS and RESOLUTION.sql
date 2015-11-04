@@ -1,0 +1,1 @@
+CREATE TABLE`di93`(select  * from di9 natural join di91)
